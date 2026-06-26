@@ -1,0 +1,6 @@
+{
+  "name": "Crisis OS",
+  "description": "An AI-powered emergency decision-making command center. Turn panic into a plan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
